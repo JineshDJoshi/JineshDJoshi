@@ -19,7 +19,7 @@ name: Jinesh Dutt Joshi
 role: Full Stack Developer & Problem Solver
 company: CDAC Noida
 position: Project Engineer
-experience: 2+ years
+experience: 3+ years
 location: India
 motto: "Code. Innovate. Deliver."
 ```
